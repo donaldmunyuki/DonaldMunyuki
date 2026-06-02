@@ -14,8 +14,8 @@ I’m a Web Developer who strives to build high-quality web experiences through 
 - **Styling & Design:** CSS3, Tailwind CSS, Figma, Stitch, Webflow, Wix
 - **Backend & Tools:** Node.js, Express, Firebase, Supabase, Git, Visual Studio Code, Vercel
 - **Debugging Tools:** Chrome DevTools, Visual Studio Code (VSCode)
-- **CMS tools:** WordPress, Webflow, Wix, Squarespace, Framer AI
-- **Other:** WebGL, THREE.js, GSAP, Motion, Chart.js, API Keys
+- **CMS tools:** WordPress, Webflow, Wix, Squarespace
+- **Other:** WebGL, THREE.js, GSAP, Framer Motion, Chart.js, API Keys
 
 ---
 
