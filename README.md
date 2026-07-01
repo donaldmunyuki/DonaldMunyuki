@@ -6,7 +6,9 @@ I’m a Software Developer who strives to build high-quality web experiences thr
 
 ## Portfolio Website
 
-- **[My Portfolio Site](https://munyuki.co.za/)**. 
+- **[My Portfolio Site](https://munyuki.co.za/)**.
+
+![My Portfolio Website Image](preview.png)
 
 ## Technical Stack
 
