@@ -12,11 +12,11 @@ I’m a Software Developer who strives to build high-quality web experiences thr
 
 ## Technical Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Vue
-- **Styling & Design:** CSS3, Tailwind CSS, Figma, Stitch, Webflow, Wix
-- **Backend & Tools:** Node.js, Express, Firebase, Supabase, Git, Visual Studio Code, Vercel
+- **Languages & Frameworks:** JavaScript(ES6+), TypeScript, React, NextJs, Vue, Vita
+- **Styling & Design:** HTML, CSS, TailwindCSS, Figma, Stitch, Webflow, 
+- **Backend & Tools:** NodeJs, Express, Firebase, Supabase, Git, VSCode, Vercel, CPanel
 - **Debugging Tools:** Chrome DevTools, Visual Studio Code (VSCode)
-- **CMS tools:** WordPress, Webflow, Wix, Squarespace
+- **CMS tools:** WordPress, Webflow, Wix, CPanel
 - **Other:** WebGL, THREE.js, GSAP, Framer Motion, Chart.js, API Keys
 
 ---
