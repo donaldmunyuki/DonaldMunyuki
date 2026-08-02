@@ -15,7 +15,7 @@ I’m a Software Developer who strives to build high-quality web experiences thr
 - **Languages & Frameworks:** PHP, JavaScript(ES6+), TypeScript, React, NextJs, Vue, Vita
 - **Styling & Design:** HTML, CSS, TailwindCSS, Figma, Webflow, 
 - **Backend & Tools:** NodeJs, Express, Firebase, Supabase, Git, VSCode, Vercel, CPanel
-- **Debugging Tools:** Chrome DevTools, Visual Studio Code (VSCode)
+- **Debugging Tools:** Chrome DevTools, VSCode
 - **CMS tools:** WordPress, Webflow, CPanel
 - **Other:** WebGL, THREE.js, GSAP, Framer Motion, Chart.js
 
