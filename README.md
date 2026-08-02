@@ -17,7 +17,7 @@ I’m a Software Developer who strives to build high-quality web experiences thr
 - **Backend & Tools:** NodeJs, Express, Firebase, Supabase, Git, VSCode, Vercel, CPanel
 - **Debugging Tools:** Chrome DevTools, Visual Studio Code (VSCode)
 - **CMS tools:** WordPress, Webflow, Wix, CPanel
-- **Other:** WebGL, THREE.js, GSAP, Framer Motion, Chart.js, API Keys
+- **Other:** WebGL, THREE.js, GSAP, Framer Motion, Chart.js
 
 ---
 
