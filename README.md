@@ -41,7 +41,7 @@ I’m a Software Developer who strives to build high-quality web experiences thr
 
 | Portfolio Website | LinkedIn Profile | X | GitHub | Prfessional Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@donaldmunyuki](https://github.com/donaldmunyuki/) | [hello@munyuki.co.za](mailto:hello@munyuki.co.za) |
+| [munyuki.co.za](https://www.munyuki.co.za) | [in/donaldmunyuki](https://www.linkedin.com/in/donaldmunyuki/) | [@donaldmunyuki](https://x.com/donaldmunyuki) | [@donaldmunyuki](https://github.com/donaldmunyuki/) |
 
 ---
 
